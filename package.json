@@ -1,0 +1,29 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "MERN",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitclaw/mern.git"
+  },
+  "keywords": [
+    "mern",
+    "node",
+    "express",
+    "react",
+    "mongo"
+  ],
+  "author": "Daniel C. <bitclaw@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bitclaw/mern/issues"
+  },
+  "homepage": "https://github.com/bitclaw/mern#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
